@@ -26,7 +26,7 @@ However, Kaelan had already written thousands of lines of dialogue in [Ren'Py](h
 
 ![](TravellerCover.jpg)
 
-The finished game was released in the[Interactive Fiction Competition](https://ifcomp.org/comp/2017) in October 2017, consisting of:
+The finished game was released in the [Interactive Fiction Competition](https://ifcomp.org/comp/2017) in October 2017, consisting of:
 
 - 52,333 words of dialogue (by Kaelan) -- *around the size of a paper novel!*
 - 121 digitally hand-drawn characters and backdrops (by Kaelan)
