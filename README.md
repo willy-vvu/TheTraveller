@@ -16,7 +16,7 @@ As a programmer working with both an artist/writer and a musician, I worked hard
 
 ![](TravellerMainMenu.jpg)
 
-*Click, Tap, or Press Space*: I opted to write *The Traveller* from the ground up as a modern web-first game. Gone are the days of lengthy downloads, installers, and loading screens -- launch *The Traveller* and begin playing *immediately*. All the visuals and sound are compressed, streamed, and preloaded in the background while you play. You can even play on your phone/tablet, or with a gamepad.
+*Click, Tap, or Press Space:* I opted to write *The Traveller* from the ground up as a modern web-first game. Gone are the days of lengthy downloads, installers, and loading screens: launch *The Traveller* and begin playing immediately. All the visuals and sound are compressed, streamed, and preloaded in the background while you play. You can even play on your phone/tablet, or with a gamepad.
 
 However, Kaelan had already written thousands of lines of dialogue in [Ren'Py](https://www.renpy.org/), a Python-based visual novel framework. To make this work on the web, I wrote a lightweight Ren'Py interpreter in JavaScript (for the non-programmers out there: I wrote some code to read and run a different kind of code---not an easy task). One perk of this was the flexibility to add custom language features for a more integrated creative workflow, allowing Kaelan to specify which of Paul's musical layers to load and when to switch between them, directly in the game's script.
 
